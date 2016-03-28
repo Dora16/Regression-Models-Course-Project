@@ -4,7 +4,8 @@ author: "Zanin Pavel"
 date: "March 28, 2016"
 output: pdf_document
 ---
-[Link to project on GitHUB](https://github.com/Filareth2015/Regression-Models-Course-Project)
+[Link to project on GitHUB](https://github.com/Filareth2015/Regression-Models-Course-Project)     
+[Link to project on RPub](https://github.com/Filareth2015/Regression-Models-Course-Project)
 
 # Instruction
 
